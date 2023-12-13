@@ -119,7 +119,7 @@ def login():
     print ('  ')
     print ('\033[34;1m _____________')
     print ('\033[34;1m|            |')
-    print ('\033[34;1m|  MR.FAGHP  |')
+    print ('\033[34;1m|  MR.DRAGON |')
     print ('\033[34;1m|____________|')
     print (' ')
     print ('\033[34;1mMR.FAGHP APA PASSWORD NY?')
